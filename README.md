@@ -17,3 +17,10 @@ Regla de salida:
 - Fondo transparente
 - Producto centrado y con margen
 - Sin imagenes incorrectas aunque sean visualmente parecidas
+
+Regla por producto:
+
+- Intentar 3 imagenes por producto siempre que haya material util.
+- Prioridad: frontal limpia, vista alternativa/back/puertos y caja o producto con caja.
+- Todas las variantes deben mantener el mismo formato visual: 1000x1000, transparente, sin cortes ni desvanecidos laterales.
+- Si una vista queda mal por recorte, baja resolucion o fondo dificil, se descarta antes de publicarla.
